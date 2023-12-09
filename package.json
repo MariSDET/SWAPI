@@ -1,0 +1,21 @@
+{
+  "name": "mocha-axios-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-mocha test/* --timeout 30000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/mocha": "^10.0.6",
+    "@types/node": "^20.10.3",
+    "axios": "^1.6.2",
+    "node": "^21.2.0",
+    "ts-mocha": "^10.0.0",
+    "typescript": "^5.3.3"
+  }
+}
