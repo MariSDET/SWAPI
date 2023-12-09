@@ -36,12 +36,12 @@ This test suite is designed to interact with the Star Wars API and validate the 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/api-testing-node-mocha.git
+   git clone https://github.com/MariSDET/SWAPI.git
    ```
 
 2. Install dependencies
     ```bash
-    cd api-testing-node-mocha
+    cd SWAPI
     npm install
     ```
 
